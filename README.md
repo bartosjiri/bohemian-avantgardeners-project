@@ -4,9 +4,9 @@ A project presentation for the AvantGarden created by team Bohemian AvantGardene
 
 The project was competing in the 1st edition of [Design the Ultimate Urban Greenhouse](https://www.wur.nl/en/Education-Programmes/Current-Students/Student-Challenge/Design-the-ultimate-urban-greenhouse-1/First-edition-Urban-Greenhouse-Challenge.htm) challenge organised by [Wageningen University & Research](https://www.wur.nl/) in 2018.
 
-The final submission is available [here](https://avantgardeners.cz/files/AvantGarden-Dossier).
+The final submission is available [here](https://github.com/bartosjiri/bohemian-avantgardeners-project/raw/master/AvantGarden-Dossier.pdf).
 
-![The AvantGarden](https://avantgardeners.cz/img/architecture/avantgarden_front.jpg)
+![The AvantGarden](https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/architecture/avantgarden_front.jpg)
 
 ---
 
@@ -16,7 +16,7 @@ The final submission is available [here](https://avantgardeners.cz/files/AvantGa
 The explosion in urban growth presents opportunities as well as challenges to our environment and our food systems. Many cities start looking for ways to feed themselves sustainably and to create a liveable, healthy environment for urban dwellers. To support these developments, Wageningen University & Research was organising a Student Challenge to "Design the Ultimate Urban Greenhouse". Multidisciplinary student teams were challenged to bring professional food production (back) into an urban neighborhood, connecting it with local resource flows an smart energy systems. The design had to be based on an existing location in Amsterdam: the former Bijlmer prison in the Bajes Kwartier. It had to encourage citizens to actively engage with the sustainable production and consumption of healthy food. Teams' business plans had to show which values are created and prove that the proposal is worth investing in. The Challenge integrated social, economic, environmental and technical aspects.
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bijlmerbajes%3B_juli_2017.jpg/1280px-Bijlmerbajes%3B_juli_2017.jpg" alt="Bijlmerbajes" width="49%"></img><img src="https://www.rijksvastgoedbedrijf.nl/binaries/medium/content/gallery/rijksvastgoedbedrijf/content-afbeeldingen/vastgoed/amsterdam-wenckebachweg-48-bijlmer/amsterdam-wenckebachweg-48-bijlmerbajes-luchtfoto.jpg" alt="Bajes Kwartier" width="49%"></img>
+<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/challenge/challenge_bijmerbajes.jpg" alt="Bijlmerbajes" width="49%"></img><img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/challenge/challenge_bajeskwartier.jpg" alt="Bajes Kwartier" width="49%"></img>
 <a href="https://nl.wikipedia.org/wiki/Bijlmerbajes#/media/Bestand:Bijlmerbajes;_juli_2017.jpg"><i>Photo source 1</i></a>, <a href="https://www.rijksvastgoedbedrijf.nl/vastgoed/verkocht/amsterdam-wenckebachweg-48"><i>Photo source 2</i></a>
 </p>
 
@@ -30,17 +30,21 @@ The explosion in urban growth presents opportunities as well as challenges to ou
 
 Natural systems develop in a succession. A barren field left undisturbed for long enough will become a forest, but this of course doesn't happen overnight. Ecosystems take time to mature and have several stages that are not always linear. First, pioneer plants, often called "weeds", rush to heal wounds in the earth, sending long tap roots into the ground, drawing nutrients from below and holding the topsoil in place. Organic matter accumulates, shrubby plants begin to grow, offering more niches for life, increasing the flow of nutrients. Slowly, a forest emerges from what was once naked earth; a self sustaining, stable ecosystem, built and supported by a vast network of plants, mycelium, earthworms, birds, and animals. In turn, the forest provides food, shelter, energy, water, shade, and tranquility.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/infographics/avantcommunity_values.png" alt="Values" width="33%">
+</p>
+
 We look at the Bajes Kwartier and see bare soil, but envision the full functioning forest ecosystem it will become. Designing an urban greenhouse isn’t enough. So we asked ourselves: *“How do we build a resilient community from the ground up around healthy food production, that is equitable for all involved, and whose members are directly invested in its survival?”* To answer this question we can’t be concerned with one-way consumer transactions. What we present is a thoughtfully designed actionable plan which has the potential to create real change for a quarter, a city, and beyond.
 
 
 ### The AvantGarden
 
-![The AvantGarden](https://avantgardeners.cz/img/architecture/avantgarden_persp1.jpg)
+![The AvantGarden](https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/architecture/avantgarden_persp1.jpg)
 
 The AvantGarden can be divided into several parts which meet the needs of the different people and activities we address in our community:
 
 <p align="center">
-<img src="https://avantgardeners.cz/img/avantgarden/avantgarden_farm.jpg" alt="AvantFarm" width="20%">
+<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/infographics/avantgarden_farm.jpg" alt="AvantFarm" width="20%">
 </p>
 <p align="center">
 <b>AvantFarm</b>
@@ -49,7 +53,7 @@ The AvantGarden can be divided into several parts which meet the needs of the di
 At the AvantFarm we produce essential nutrition, primarily for ourselves, the community of the B²COOP. We seek in every way to mimic nature. We designed a holistic food web connecting independent, but mutually beneficial cycles of aquaponics, plants, mushrooms, and insects. We wholeheartedly support aquaponics as a source of nutrients rather than any synthetic solution. Aquaponics allows a truly circular model of production through which we manage to capture, supply, and recirculate nutrients for our ecosystem while creating value in all its stages.
 
 <p align="center">
-<img src="https://avantgardeners.cz/img/avantgarden/avantgarden_market.jpg" alt="AvantMarket" width="20%">
+<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/infographics/avantgarden_market.jpg" alt="AvantMarket" width="20%">
 </p>
 <p align="center">
 <b>AvantMarket</b>
@@ -58,7 +62,7 @@ At the AvantFarm we produce essential nutrition, primarily for ourselves, the co
 The AvantMarket is where the harvest arrives to supply essential healthy food to the citizens of the Bajes Kwartier. The harvest comes from the AvantGarden, but not exclusively. Some products, such as wheat, can be produced in our system but make much more sense to grow outdoors at a different scale. Therefore, we seek to cooperate for high-nutritional produce, sourced locally and responsibly, rather than compete and disrupt the local business environment. The AvantMarket is designed as a farmer’s market held year round. Each stand in the AvantMarket tells the story of the farmer. B²COOP provides the space for the stand and B²COOPmembers-employees work as the cashiers, stock managers and cleaners of the market.
 
 <p align="center">
-<img src="https://avantgardeners.cz/img/avantgarden/avantgarden_community.jpg" alt="AvantCommunity" width="20%">
+<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/infographics/avantgarden_community.jpg" alt="AvantCommunity" width="20%">
 </p>
 <p align="center">
 <b>AvantCommunity</b>
@@ -67,7 +71,7 @@ The AvantMarket is where the harvest arrives to supply essential healthy food to
 *“If niches are opportunities in space, cycles are opportunity in time” (Mollison, 1988)*. The AvantGarden is full of both kinds of opportunities to accommodate a wide range of activities and meet the needs and wishes of all our AvantCommunity. Not a single space in the common area of the AvantGarden is used for only one purpose. We have a cowork hub, which can be used as study space or library as well, kids playground which becomes a summer cinema & event space, green meeting rooms used either for classes or business meetings, a hackerspace where people can build and experiment, and a public kitchen easily transformed into a dinner party room. Apart from spaces of the AvantGarden that are accessible based on membership or rent, there are some public areas: "The Hill" and the rooftop Permagarden Café.
 
 <p align="center">
-<img src="https://avantgardeners.cz/img/avantgarden/avantgarden_world.jpg" alt="AvantWorld" width="20%">
+<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/infographics/avantgarden_world.jpg" alt="AvantWorld" width="20%">
 </p>
 <p align="center">
 <b>AvantWorld</b>
@@ -77,7 +81,7 @@ As the building and its community grows, it transforms its surroundings and beyo
 
 ### The community
 
-![The community](https://avantgardeners.cz/img/architecture/avantgarden_market.jpg)
+![The community](https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/architecture/avantgarden_market.jpg)
 
 We borrow our overarching philosophy from permaculture, where cooperation is the basis of existing life systems and future survival. With that in mind, we have designed a multi-stakeholder cooperative B²COOP: a cooperative of citizens living in the Bijlmer Bajes (B²), the AvantGardeners, other local farmers and small businesses, working together to build lasting relationships based upon fair prices and wages, and forming community in a common effort to provide the essentials for a healthy, fulfilling life.
 
@@ -90,7 +94,7 @@ Around the world we see a monoculture of food production, but also of culture. T
 The AvantGarden project was created by a team students of [Czech University of Life Sciences in Prague](https://www.czu.cz/en/) named The Bohemian AvantGardeners.
 
 <p align="center">
-<img src="https://avantgardeners.cz/img/logo/logo_white.png" alt="AvantWorld" width="20%">
+<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/logo/logo_color.png" alt="Bohemian AvantGardeners" width="20%">
 </p>
 
 Individually we specialise in various fields of agriculture, waste management, economics, social dynamics, and architecture, but as a team it gave us a unique opportunity to understand the future of food production better. We believe that behind real changes stands a cooperation of many and that answers can be found through building human-scale solutions. The nature inspires us to experiment and develop spaces that make people and environment healthier.
