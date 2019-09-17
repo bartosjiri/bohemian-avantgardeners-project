@@ -16,11 +16,8 @@ The final submission is available [here](https://avantgardeners.cz/files/AvantGa
 The explosion in urban growth presents opportunities as well as challenges to our environment and our food systems. Many cities start looking for ways to feed themselves sustainably and to create a liveable, healthy environment for urban dwellers. To support these developments, Wageningen University & Research was organising a Student Challenge to "Design the Ultimate Urban Greenhouse". Multidisciplinary student teams were challenged to bring professional food production (back) into an urban neighborhood, connecting it with local resource flows an smart energy systems. The design had to be based on an existing location in Amsterdam: the former Bijlmer prison in the Bajes Kwartier. It had to encourage citizens to actively engage with the sustainable production and consumption of healthy food. Teams' business plans had to show which values are created and prove that the proposal is worth investing in. The Challenge integrated social, economic, environmental and technical aspects.
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bijlmerbajes%3B_juli_2017.jpg/1280px-Bijlmerbajes%3B_juli_2017.jpg" alt="Bijlmerbajes" width="49%"></img>
-<img src="https://www.rijksvastgoedbedrijf.nl/binaries/medium/content/gallery/rijksvastgoedbedrijf/content-afbeeldingen/vastgoed/amsterdam-wenckebachweg-48-bijlmer/amsterdam-wenckebachweg-48-bijlmerbajes-luchtfoto.jpg" alt="Bajes Kwartier" width="49%"></img>
-
-<a href="https://nl.wikipedia.org/wiki/Bijlmerbajes#/media/Bestand:Bijlmerbajes;_juli_2017.jpg"><i>Photo source 1</i></a>
-<a href="https://www.rijksvastgoedbedrijf.nl/vastgoed/verkocht/amsterdam-wenckebachweg-48"><i>Photo source 2</i></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bijlmerbajes%3B_juli_2017.jpg/1280px-Bijlmerbajes%3B_juli_2017.jpg" alt="Bijlmerbajes" width="49%"></img><img src="https://www.rijksvastgoedbedrijf.nl/binaries/medium/content/gallery/rijksvastgoedbedrijf/content-afbeeldingen/vastgoed/amsterdam-wenckebachweg-48-bijlmer/amsterdam-wenckebachweg-48-bijlmerbajes-luchtfoto.jpg" alt="Bajes Kwartier" width="49%"></img>
+<a href="https://nl.wikipedia.org/wiki/Bijlmerbajes#/media/Bestand:Bijlmerbajes;_juli_2017.jpg"><i>Photo source 1</i></a>, <a href="https://www.rijksvastgoedbedrijf.nl/vastgoed/verkocht/amsterdam-wenckebachweg-48"><i>Photo source 2</i></a>
 </p>
 
 ## The project
@@ -44,7 +41,8 @@ The AvantGarden can be divided into several parts which meet the needs of the di
 
 <p align="center">
 <img src="https://avantgardeners.cz/img/avantgarden/avantgarden_farm.jpg" alt="AvantFarm" width="20%">
-
+</p>
+<p align="center">
 <b>AvantFarm</b>
 </p>
 
@@ -52,7 +50,8 @@ At the AvantFarm we produce essential nutrition, primarily for ourselves, the co
 
 <p align="center">
 <img src="https://avantgardeners.cz/img/avantgarden/avantgarden_market.jpg" alt="AvantMarket" width="20%">
-
+</p>
+<p align="center">
 <b>AvantMarket</b>
 </p>
 
@@ -60,7 +59,8 @@ The AvantMarket is where the harvest arrives to supply essential healthy food to
 
 <p align="center">
 <img src="https://avantgardeners.cz/img/avantgarden/avantgarden_community.jpg" alt="AvantCommunity" width="20%">
-
+</p>
+<p align="center">
 <b>AvantCommunity</b>
 </p>
 
@@ -68,7 +68,8 @@ The AvantMarket is where the harvest arrives to supply essential healthy food to
 
 <p align="center">
 <img src="https://avantgardeners.cz/img/avantgarden/avantgarden_world.jpg" alt="AvantWorld" width="20%">
-
+</p>
+<p align="center">
 <b>AvantWorld</b>
 </p>
 
