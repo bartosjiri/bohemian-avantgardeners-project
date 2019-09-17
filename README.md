@@ -4,7 +4,7 @@ A project presentation for the AvantGarden created by team Bohemian AvantGardene
 
 The project was competing in the 1st edition of [Design the Ultimate Urban Greenhouse](https://www.wur.nl/en/Education-Programmes/Current-Students/Student-Challenge/Design-the-ultimate-urban-greenhouse-1/First-edition-Urban-Greenhouse-Challenge.htm) challenge organised by [Wageningen University & Research](https://www.wur.nl/) in 2018.
 
-The final submission is available [here](https://github.com/bartosjiri/bohemian-avantgardeners-project/raw/master/AvantGarden-Dossier.pdf).
+The final submission is available for download from [here](https://github.com/bartosjiri/bohemian-avantgardeners-project/raw/master/AvantGarden-Dossier.pdf).
 
 ![The AvantGarden](https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/architecture/avantgarden_front.jpg)
 
