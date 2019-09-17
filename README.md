@@ -31,7 +31,7 @@ The explosion in urban growth presents opportunities as well as challenges to ou
 Natural systems develop in a succession. A barren field left undisturbed for long enough will become a forest, but this of course doesn't happen overnight. Ecosystems take time to mature and have several stages that are not always linear. First, pioneer plants, often called "weeds", rush to heal wounds in the earth, sending long tap roots into the ground, drawing nutrients from below and holding the topsoil in place. Organic matter accumulates, shrubby plants begin to grow, offering more niches for life, increasing the flow of nutrients. Slowly, a forest emerges from what was once naked earth; a self sustaining, stable ecosystem, built and supported by a vast network of plants, mycelium, earthworms, birds, and animals. In turn, the forest provides food, shelter, energy, water, shade, and tranquility.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/infographics/avantcommunity_values.png" alt="Values" width="33%">
+<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/infographics/avantcommunity_values.png" alt="Values" width="40%">
 </p>
 
 We look at the Bajes Kwartier and see bare soil, but envision the full functioning forest ecosystem it will become. Designing an urban greenhouse isn’t enough. So we asked ourselves: *“How do we build a resilient community from the ground up around healthy food production, that is equitable for all involved, and whose members are directly invested in its survival?”* To answer this question we can’t be concerned with one-way consumer transactions. What we present is a thoughtfully designed actionable plan which has the potential to create real change for a quarter, a city, and beyond.
@@ -94,7 +94,7 @@ Around the world we see a monoculture of food production, but also of culture. T
 The AvantGarden project was created by a team students of [Czech University of Life Sciences in Prague](https://www.czu.cz/en/) named The Bohemian AvantGardeners.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/logo/logo_color.png" alt="Bohemian AvantGardeners" width="20%">
+<img src="https://raw.githubusercontent.com/bartosjiri/bohemian-avantgardeners-project/master/img/logo/logo_color.png" alt="Bohemian AvantGardeners" width="40%">
 </p>
 
 Individually we specialise in various fields of agriculture, waste management, economics, social dynamics, and architecture, but as a team it gave us a unique opportunity to understand the future of food production better. We believe that behind real changes stands a cooperation of many and that answers can be found through building human-scale solutions. The nature inspires us to experiment and develop spaces that make people and environment healthier.
